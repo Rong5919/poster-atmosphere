@@ -1,0 +1,2 @@
+cd %USERPROFILE%\Desktop\RepViT
+python test_generate.py
